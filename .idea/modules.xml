@@ -4,7 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/00Patterns/00Patterns.iml" filepath="$PROJECT_DIR$/00Patterns/00Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/01Arrays/01Arrays.iml" filepath="$PROJECT_DIR$/01Arrays/01Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02Recursion/02Recursion.iml" filepath="$PROJECT_DIR$/02Recursion/02Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03SearchAndSorting/03SearchAndSorting.iml" filepath="$PROJECT_DIR$/03SearchAndSorting/03SearchAndSorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Strings/04Strings.iml" filepath="$PROJECT_DIR$/04Strings/04Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA Basics.iml" filepath="$PROJECT_DIR$/DSA Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03SearchAndSorting/Searching/Searching.iml" filepath="$PROJECT_DIR$/03SearchAndSorting/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03SearchAndSorting/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/03SearchAndSorting/Sorting/Sorting.iml" />
     </modules>
   </component>
 </project>
