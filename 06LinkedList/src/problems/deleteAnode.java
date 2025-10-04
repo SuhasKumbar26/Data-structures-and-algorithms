@@ -1,4 +1,4 @@
-package Leetcode;
+package problems;
 
 public class deleteAnode {
 }

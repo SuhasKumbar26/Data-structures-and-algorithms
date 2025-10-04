@@ -1,6 +1,4 @@
-package Leetcode;
-
-import java.util.List;
+package problems;
 
 public class ReverseLinkedList {
     static class LinkedList{
